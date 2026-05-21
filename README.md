@@ -1,4 +1,4 @@
-# Replication Package
+# Bias Correction in Panel Models with Asymmetric Regressors and Cross-Sectional Dependence
 
 This repository contains the complete R code and pre-computed results to
 reproduce all simulations, empirical estimates, tables, and figures in the
